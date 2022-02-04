@@ -21,3 +21,5 @@
 - 불변성 때문에 깊은 복사를 자주 한다면 메모리로 문제가 생길수 있다.
 
 ## 리덕스 공식문서 https://redux.js.org/introduction/getting-started
+
+##
